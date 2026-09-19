@@ -1,0 +1,6 @@
+- Spirit Air Lines had the highest delay rate among airlines meeting the volume threshold: 29.7%.
+- ORD had the highest average departure delay among high-volume origin airports: 14.2 minutes.
+- RDU → LGA ranked highest on the defined high-volume route risk score (26.5).
+- Month 6 had the highest delay rate: 23.0%.
+- Flights scheduled around 20:00 had the highest hourly delay rate: 25.7%.
+- United Air Lines Inc. recovered the most time on average after delayed departures: 8.9 minutes.
